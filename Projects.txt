@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Soyoona Kim Composer </title>
+</head>
+
+<body>
+<body style="background-color:MistyRose;">
+
+<h1> Projects </h1><br><br>
+
+<p>
+<ol>
+
+<li> 
+catcalls. how I feel when walking on streets alone 
+walk like a wild animal 
+</li><br>
+
+<li> 
+Endangered birdsd can't learn their song
+Teach me how to sing 
+</li><br>
+
+<li> 
+Exploring mallet percussion instruments
+Four short pieces for percussion 
+</li><br>
+
+<li> 
+Folklore, tradition 
+developing ideas
+</li><br>
+
+<li> 
+Litter's Travels 
+From this park to ocean 
+</li><br>
+
+<li> 
+personal project studying motion-sensor-triggered sounds 
+Imagine the book 
+</li><br>
+
+</ol>
+
+</p>
+
+</body>
+</html>
