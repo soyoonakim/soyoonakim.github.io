@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Soyoona Kim Composer </title>
+</head>
+
+<body>
+<body style="background-color:MistyRose;">
+
+<h4> 
+
+<a href="index.html"> Home</a> &nbsp;&nbsp;&nbsp;
+<a href="About.html"> About</a> &nbsp;&nbsp;&nbsp;
+<a href="works.html"> Works</a> &nbsp;&nbsp;&nbsp;
+<a href="Projects.html"> Projects</a> &nbsp;&nbsp;&nbsp;
+<a href="News.html"> News</a>
+
+</h4>
+
+<h1> List of Works </h1>
+<p>
+
+
+Orchestra
+
+<ul>
+<li>​
+slow down, 2021
+
+2[picc.].2.2.2.  2.2.2.1.  timp. +3. hrp. pn. str. 
+
+The flow of thought during meditation. 9 min. 
+</li>​
+​
+<li>​
+Rain, thunder, lightning, 2020
+
+picc.2.2.E.Hn.2.B.Cl.2.  4.2.2.0.  timp. +3. pn. str. 
+
+Awe to Jangma, Korean rainy season. 6 min.
+</li>​
+​
+<li>​
+Autumn, Winter, Spring, and Summer Night, 1998
+
+ 2.2.2.2.  2.2.2.2.  hrp. str.
+
+The way I perceive four seasons. 16 min. 
+</li>​
+
+
+
+Theatrical 
+
+The day before moving, 2022
+
+for alto saxophonist and percussionist
+
+Leaving Baltimore. 15 min. 
+
+​
+
+Bored Violinist, 2020
+
+for violinist
+
+An Die Music during COVID19. 5 min. 
+
+
+
+Give me my leg back! (내 다리 내놔!), 2019
+
+for soprano-narrator, alto fl. vc. perc.(snare drum, triangle, vibraphone), el.gui.
+
+Based on the Korean folk tale that tells about the one terrible night journey. 10 min. 
+
+​
+
+Yeo-U Nu-I (Fox sister), 2019
+
+for soprano, mezzo-soprano, cl.gui. 
+
+Based on Korean folk tale that questions if you really know the person that is close to you.  8 min.
+
+​
+
+Dinner is Ready!, 2019
+
+for percussionist and trombonist
+
+Imagine your favorite food from childhood being cooked… 3 min. 
+
+​
+
+Dear father, 2019
+
+Chamber opera for one soprano, one narrator, and a chamber ensemble
+
+A Longing for education. 20 min. 
+
+​
+
+The Wolf and Seven Little Goats, 2000
+
+Ballet for children. 27 min. 
+
+​
+
+Masha and Three Bears, 1998
+
+Opera for children. 25 min.
+
+
+----------------------------------------------------
+
+Chamber 
+
+
+
+
+exquisite creatures with fins and fronds, 2022
+
+alto sax, pn, perc.
+
+ft. Smithsonian Environmental Research Center.
+
+Inspired by the beauty of marine biodiversity. 7 min.
+
+​
+
+SN1054, 2020
+
+string quartet
+
+ft. Space Telescope Science Center
+
+About people who observed the Supernova 1054. 11 min.
+
+​
+
+Jogakbo, 2019
+
+fl, bn, hn.
+
+Inspired by Korean traditional patchwork. 6 min. 
+
+​
+
+Day of the Sea; 13’, 2017.
+
+fl. Bb cl. perc.(mar. glock.) vl. vc.
+
+Colorful sea throughout a day. 13 min. 
+
+​
+
+Faint clocks strike as from olden days, 2018
+
+mz.sop. fl. cl. vl. vc. perc.(w.bl) pn.   
+
+Inspired by a poem by H. Heine. 7 min. 
+
+----------------------------------------------------
+
+
+Solo & Duo 
+
+she birds, 2023
+
+piano
+
+My bird(watch)ing experience. 6 min.  
+
+​
+
+walk like a wild animal, work in progress
+
+mezzo-soprano, fixed media
+
+about catcalls. commissioned by mezzo-soprano Maddalena Ohrbach 
+
+​
+
+Four short pieces for percussion, work in progress
+
+mar. vib.
+
+commissioned by percussionist Benjamin Giroux
+
+​
+
+Cooking & Gardening, 2022
+
+classical guitar duo
+
+cherishing ordinary days. 8 min. 
+
+​
+
+Iceberg, 2022
+
+violin
+
+My experience being near an iceberg. 6 min.
+
+
+
+Where the sun blazes like an immortal being, 2022
+
+cello
+
+Inspired by the poem The Book of Life 생명의 서 by Korean poet Yu Chi-Whan. 5 min. 
+
+​
+
+Three images from Assateague Island, 2021
+
+classical guitar
+
+Based on three images from Assateague Island. 7 min.
+
+​
+
+Under the moonlight they sing and dance, 2020
+
+organ
+
+Inspired by a Korean traditional dance Gang-Gang Sullae. 9 min. 
+
+
+
+We practiced this every day!, 2020
+
+Electric Gui. Pn.
+
+Music about the synchronized swimmers. 6 min. 
+
+​
+
+Midnight Dance, 2020
+
+D.B., perc. (timp. crot.).
+
+Inspired by Korean traditional dance Salpuri 살풀이춤. 6 min. 
+
+​
+
+Writing a Letter on a Spring Night, 2019
+
+alto sax, pn.
+
+Music about uncertainty and longing. Homage to the Tatiana’s Letter Scene in opera Eugene Onegin by Tchaikovsky. 6 min. 
+
+
+
+! , 2019
+
+flute duet
+
+Music about people daydreaming about beautiful places. 6 min. 
+
+​
+
+Puri, 2018
+
+violin
+
+‘Puri’ means ‘unwinding’ in Korean. 5 min. 
+
+​
+
+Seya Seya, 2017
+
+Timpani with crotales
+
+Music lamenting people suffered from Donghak rebellion, 1894. 13 min. 
+
+​
+
+The King Turtle in the Turtle Pond, 2016
+
+vl. pn.
+
+Inspired by the turtle pond at UT Austin. 5 min.
+
+----------------------------------------------------
+​
+For Children 
+
+솔솔짹짹숲 (Breezing and chirping forest), 2021
+
+piano and narration
+
+Musical story accompanied with narration and piano. 5 min.
+
+ 
+Jazzy Little Composers, 2021
+
+Piano, 4 hands
+
+variation based on themes made by little composers. 4 min. 
+
+​
+
+Five Little Composers, 2020
+
+vl. pn. 
+
+variation based on themes made by little composers. 3 min.
+
+​
+
+Komaya Komaya, 2017
+
+Piano, 4 hands
+
+Music based on Korean nursery rhyme, exploring various styles in Western music history. 7 min. 
+
+​
+
+Juingong is my best friend, 2007
+
+Children’s choir, pn. 
+
+Music written for Hanmaum Zen Center summer camp. 3 min.
+
+​
+
+Five Little Pieces for Little Children, 2001
+
+Piano, 4 hands
+Collection of five miniatures - polka, waltz, march, canzone, tarantella. 6 min. 
+
+</p>
+
+</body>
+</html>
