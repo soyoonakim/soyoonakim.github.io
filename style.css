@@ -148,15 +148,18 @@ footer {
 
 @media (max-width: 768px) {
 
-  .menu {
-    top: 25px;
-    left: 25px;
-    gap: 12px;
-  }
+ .menu {
+  position: relative;
+  top: 0;
+  left: 0;
 
-  .menu a {
-    font-size: 12px;
-  }
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  padding-top: 30px;
+  margin-bottom: 40px;
+}
 
   .hero h1 {
     font-size: 3rem;
