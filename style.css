@@ -180,3 +180,21 @@ footer {
   }
 
 }
+
+.works-title {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.youtube-link {
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: #444;
+  letter-spacing: 1px;
+  transition: opacity 0.3s ease;
+}
+
+.youtube-link:hover {
+  opacity: 0.5;
+}
