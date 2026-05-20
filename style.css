@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Cormorant Garamond', serif;
   color: #2f2f2f;
-  background-image: url('images/sky.jpg');
+  background-image: url('image/sky.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
