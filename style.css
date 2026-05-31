@@ -201,3 +201,26 @@ footer {
 .youtube-link:hover {
   opacity: 0.5;
 }
+
+.work-item { cursor: pointer; border-bottom: 1px solid rgba(255,255,255,0.08); }
+.work-item:last-child { border-bottom: none; }
+.work-header { display: flex; align-items: baseline; justify-content: space-between; padding: 0.2rem 0; gap: 1rem; }
+.work-header h3, .work-header p { margin: 0; }
+.work-chevron { font-size: 13px; color: rgba(255,255,255,0.4); transition: transform 0.3s ease; flex-shrink: 0; }
+.work-item.open .work-chevron { transform: rotate(180deg); color: rgba(255,255,255,0.8); }
+.work-panel { display: none; padding: 1rem 0 1.5rem; }
+.work-item.open .work-panel { display: block; }
+.panel-tabs { display: flex; border-bottom: 1px solid rgba(255,255,255,0.12); margin-bottom: 1.2rem; }
+.tab-btn { font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; background: none; border: none; padding: 0.5rem 1.1rem 0.65rem; cursor: pointer; color: rgba(255,255,255,0.4); border-bottom: 1.5px solid transparent; margin-bottom: -1px; transition: color 0.15s; }
+.tab-btn:hover { color: rgba(255,255,255,0.75); }
+.tab-btn.active { color: rgba(255,255,255,0.95); border-bottom-color: rgba(255,255,255,0.85); }
+.tab-pane { display: none; }
+.tab-pane.active { display: block; }
+.video-wrapper { position: relative; aspect-ratio: 16/9; border-radius: 4px; overflow: hidden; background: rgba(255,255,255,0.04); }
+.video-wrapper iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: none; }
+.video-placeholder { aspect-ratio: 16/9; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.6rem; background: rgba(255,255,255,0.03); border: 1px dashed rgba(255,255,255,0.12); border-radius: 4px; color: rgba(255,255,255,0.35); font-family: 'Inter', sans-serif; font-size: 12px; letter-spacing: 0.06em; }
+.program-note { font-family: 'Cormorant Garamond', serif; font-size: 17px; line-height: 1.8; color: rgba(255,255,255,0.75); font-style: italic; margin: 0; padding-left: 1.1rem; border-left: 1.5px solid rgba(255,255,255,0.2); }
+.info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.info-card { background: rgba(255,255,255,0.04); border-radius: 4px; padding: 0.7rem 0.9rem; }
+.info-label { font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.4); margin-bottom: 4px; }
+.info-value { font-family: 'Cormorant Garamond', serif; font-size: 16px; color: rgba(255,255,255,0.85); }
