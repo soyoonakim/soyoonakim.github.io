@@ -14,6 +14,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Inter:wght@300;400&display=swap" rel="stylesheet">
 </head>
 
+<script>
+  function toggleWork(item) { item.classList.toggle('open'); }
+  function switchTab(event, btn, tab) {
+    event.stopPropagation();
+    const panel = btn.closest('.work-panel');
+    panel.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    panel.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    panel.querySelector(`.tab-pane[data-tab="${tab}"]`).classList.add('active');
+  }
+</script>
+  
 <body>
 
   <div class="overlay"></div>
@@ -67,10 +79,23 @@
       <p>for orchestra · 2021 · 6'</p>
         </div>
 
-     <div class="work-item">
-      <h3>SN1054</h3>
-      <p>for string quartet · 2020 · 10'</p>
-        </div>
+     <!-- SN1054 -->
+  <div class="work-item" onclick="toggleWork(this)">
+    <div class="work-header">
+      <div><h3>SN1054</h3><p>for string quartet · 2020 · 10'</p></div>
+      <span class="work-chevron">▾</span>
+    </div>
+    <div class="work-panel" onclick="event.stopPropagation()">
+      <div class="panel-tabs">
+        <button class="tab-btn active" onclick="switchTab(event,this,'video')">Video</button>
+        <button class="tab-btn" onclick="switchTab(event,this,'note')">Program Note</button>
+        <button class="tab-btn" onclick="switchTab(event,this,'info')">More Info</button>
+      </div>
+      <div class="tab-pane active" data-tab="video"><div class="video-wrapper"><iframe src="https://www.youtube.com/embed/m2wY434QVRw" allowfullscreen loading="lazy"></iframe></div></div>
+      <div class="tab-pane" data-tab="note"><p class="program-note">Inspired by people who first observed and recorded the explosion of Supernova 1054, and the modern scientists who study its remnant, the Crab Nebula. A Chinese record from 1054 AD describes a sudden bright star visible in daylight for 23 days and at night for two years — observed by scholars in China, Iraq, and the Arizona region. SN1054 and the Crab Nebula tell us how we study, explore, and accumulate knowledge through generations. This music is a tribute to all our curiosities.</p></div>
+      <div class="tab-pane" data-tab="info"><div class="info-grid"><div class="info-card"><div class="info-label">Instrumentation</div><div class="info-value">String quartet</div></div><div class="info-card"><div class="info-label">Year</div><div class="info-value">2020</div></div><div class="info-card"><div class="info-label">Duration</div><div class="info-value">10 minutes</div></div><div class="info-card"><div class="info-label">Album</div><div class="info-value">Hearing Stars — Space Telescope Science Institute</div></div></div></div>
+    </div>
+  </div>
 
     <div class="work-item">
       <h3>Rain, Thunder, Lightning</h3>
